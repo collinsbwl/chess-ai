@@ -1,2 +1,2 @@
 # Chess AI
-Currently WIP
+Building this to beat my cousin at chess
